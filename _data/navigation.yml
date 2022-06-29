@@ -18,5 +18,5 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
