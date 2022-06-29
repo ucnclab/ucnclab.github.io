@@ -66,10 +66,10 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Publons # If the user or organization name differs from the site's name
-  links                  : https://publons.com/researcher/4671788/anming-li/  # An array of links to social media profiles
-
+  type                   : Organization 
+  name                   : Publons 
+  links                  : "https://publons.com/researcher/4671788/anming-li/"
+  
 
 # Analytics
 analytics:
@@ -83,7 +83,7 @@ author:
   name             : "Anming Li"
   avatar           : "images/profile.png"
   bio              : "Associate Professor, Ph.D."
-  location         : "Zhengzhou, China"
+  location         : # "Zhengzhou, China"
   employer         : "Zhengzhou Normal University"
   pubmed           : 
   googlescholar    : 
