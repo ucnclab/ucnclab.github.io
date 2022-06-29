@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The Laboratory of Upconversion Luminescent Micro/Nanocrystals (Anming Li's Lab) was established and headed by A/Prof. Dr. Anming Li. The scientific research of the Laboratory's scientific work mainly focuses on the controllable synthesis of micro/nanocrystals, lanthanide upconversion photoluminescence and photothermal conversion, and the underlying electronic transition pathways and energy transfer mechanisms. The scientific research in the laboratory is funded by government grants (e.g., from the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html), the [National Natural Science Foundation of Guangdong Province](http://gdstc.gd.gov.cn/), the Fundamental Research Funds for the Central Universities - [Jinan University](https://www.jnu.edu.cn/), etc.)
+The Laboratory of Upconversion Luminescent Micro/Nanocrystals (Anming Li's Lab) was established and headed by A/Prof. Dr. Anming Li. The scientific research of the Laboratory's scientific work mainly focuses on the controllable synthesis of micro/nanocrystals, lanthanide upconversion photoluminescence and photothermal conversion, and the underlying electronic transition pathways and energy transfer mechanisms. The scientific research in the laboratory is funded by government grants (e.g., from the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html), the [Natural Science Foundation of Guangdong Province](http://gdstc.gd.gov.cn/), the Fundamental Research Funds for the Central Universities - [Jinan University](https://www.jnu.edu.cn/), etc.)
 
 Scientific Instruments
 ======
@@ -19,7 +19,11 @@ Spectrometer
 ![Spectrometer](/images/spectrometer.jpg)
 
 Ovens
-![Ovens](/images/spectrometer.jpg)
+![Ovens](/images/ovens.jpg)
 
 Centrifuge andultrasonic cleaner
 ![Centrifuge](/images/centrifugate.jpg)
+
+For more info
+------
+More info about Prof. Dr. Anming Li can be found in [Curriculum Vitae](/cv/). 
