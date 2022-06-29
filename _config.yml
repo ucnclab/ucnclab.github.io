@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : "https://ucnclab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ucnclab.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "/images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -66,10 +66,10 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization 
-  name                   : Publons 
-  links                  : "https://publons.com/researcher/4671788/anming-li/"
-  
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
 
 # Analytics
 analytics:
@@ -81,15 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Anming Li"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Associate Professor, Ph.D."
-  location         : # "Zhengzhou, China"
+  location         : "Zhengzhou, China"
   employer         : "Zhengzhou Normal University"
   pubmed           : 
   googlescholar    : 
   email            : "li_anming@126.com"
   publons          : "https://publons.com/researcher/4671788/anming-li/"
-  orcid            : "https://orcid.org/0000-0003-1344-3460"
   researchgate     : "https://www.researchgate.net/profile/Anming-Li"
   uri              :
   bitbucket        :
@@ -104,6 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
+  orcid            : "https://orcid.org/0000-0003-1344-3460"
   github           : "ucnclab"
   pinterest        :
   soundcloud       :
@@ -176,16 +176,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  publications:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   awards:
     output: true
     permalink: /:collection/:path/
-  talks:
+  patents:
     output: true
     permalink: /:collection/:path/
 
@@ -210,19 +210,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _publications
   - scope:
       path: ""
-      type: teaching
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
@@ -237,12 +237,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _patents
   - scope:
       path: ""
-      type: talks
+      type: patents
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -264,14 +264,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+# - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+# - jekyll-feed
   - jemoji
 
 
