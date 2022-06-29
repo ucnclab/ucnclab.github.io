@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /research/    
+
+  - title: "Awards"
+    url: /awards/    
+    
+  - title: "Patents"
+    url: /patents/
+        
+  - title: "Curriculum Vitae"
+    url: /cv/
+    
+  - title: "News"
+    url: /news/
+    
+  - title: "Guide"
+    url: /markdown/
