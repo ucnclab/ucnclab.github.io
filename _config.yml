@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laboratory of Upconversion Luminescent Micro/Nanocrystals"
+title                    : "Anming Li's Laboratory"
 title_separator          : "-"
 name                     : &name "Anming Li"
 description              : &description "personal description"
