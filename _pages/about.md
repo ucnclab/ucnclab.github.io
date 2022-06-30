@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anming Li's Laboratory"
+title: "Laboratory of Upconversion Luminescent Micro/Nanocrystals"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
