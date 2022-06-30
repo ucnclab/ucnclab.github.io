@@ -25,4 +25,4 @@ Centrifuge andultrasonic cleaner
 
 For More Information
 ------
-Please visit the [ORCID Page](https://orcid.org/0000-0003-1344-3460), [Publons Page](https://publons.com/researcher/4671788/anming-li/), [ResearchGate Page](https://www.researchgate.net/profile/Anming-Li) or [Curriculum Vitae Page](/cv/). 
+Please visit the [ORCID Page](https://orcid.org/0000-0003-1344-3460), [Publons Page](https://publons.com/researcher/4671788/anming-li/), [ResearchGate Page](https://www.researchgate.net/profile/Anming-Li), or [Curriculum Vitae Page](/cv/). 
