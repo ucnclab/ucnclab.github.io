@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Anming Li's Laboratory"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Anming Li"
-description              : &description "personal description"
+description              : "A website for Anming Li's Laboratory."
 url                      : "https://ucnclab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ucnclab.github.io"
@@ -48,6 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+  hide                   : true
+search                  : true
 
 # SEO Related
 google_site_verification :
@@ -66,9 +68,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Publons # If the user or organization name differs from the site's name
-  links                    : "https://publons.com/researcher/4671788/anming-li/" # An array of links to social media profiles
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links                    :  # An array of links to social media profiles
 
 
 # Analytics
@@ -88,7 +90,6 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "li_anming@126.com"
-  publons          : "https://publons.com/researcher/4671788/anming-li/"
   researchgate     : "https://www.researchgate.net/profile/Anming-Li"
   uri              :
   bitbucket        :
@@ -116,6 +117,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+links:
+  - label    : "Publons"
+     icons   : "/images/publonlogo.png"
+     url       : "https://publons.com/researcher/4671788/anming-li/"
 
 
 # Reading Files
