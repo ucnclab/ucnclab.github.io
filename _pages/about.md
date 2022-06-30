@@ -20,7 +20,7 @@ Spectrometer
 Ovens
 ![Ovens](/images/ovens.jpg)
 
-Centrifuge andultrasonic cleaner
+Centrifuge and Ultrasonic cleaner
 ![Centrifuge](/images/centrifugate.jpg)
 
 For More Information
