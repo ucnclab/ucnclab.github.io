@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Laboratory of Upconversion Luminescent Micro/Nanocrystals"
+title: "Anming Li's Laboratory"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,6 +23,6 @@ Ovens
 Centrifuge andultrasonic cleaner
 ![Centrifuge](/images/centrifugate.jpg)
 
-For more info
+For More Information
 ------
-More info about Prof. Dr. Anming Li can be found in [Curriculum Vitae](/cv/). 
+Please visit the [ORCID Page](https://orcid.org/0000-0003-1344-3460), [Publons Page](https://publons.com/researcher/4671788/anming-li/), [ResearchGate Page](https://www.researchgate.net/profile/Anming-Li) or [Curriculum Vitae Page](/cv/). 
