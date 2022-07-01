@@ -44,13 +44,13 @@ Publications
   
 Awards
 ======
-  <ul>{% for post in site.awards %}
+  <ul>{% for post in site.awards reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Patents
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.patents reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
