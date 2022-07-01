@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Condensed Matter Physics, Sun Yat-sen University, 2017
+* M.S. in Optical Engineering, Jinan University, 2010
+* B.S. in Electronics, Henan University, 2007
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010 ~ 2014: Assistant Professor
+  * Jinan University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 ~ 2019: Associate Professor
+  * Jinan University
+
+* 2019 ~ Present: Associate Professor
+  * Zhengzhou Normal University
   
 Research Interests
 ======
-* Research 1
-* Research 2
-  * Sub-research 2.1
-  * Sub-research 2.2
-  * Sub-research 2.3
-* Research 3
+* Controlled Synthesis of Micro/Nanocrystals
+* PhotoLuminescence Properties
+  * Lanthanide Upconversion Luminescence
+  * Electronic Transition Pathway and Energy-Transfer Mechanism
+  *Luminescence Thermometry
+* Photothermal Conversion
 
 Publications
 ======
@@ -42,9 +41,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
+Awards and Honors
 ======
   <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Funding Grants
+======
+  <ul>{% for post in site.researchs reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -56,4 +61,6 @@ Patents
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder and Director of the Laboratory of Upconversion Luminescent Micro/Nanocrystals
+* Member of some scientific societies in China
+* Oral speaker for international conferences
