@@ -2,6 +2,7 @@
 title: "一种镱、钬离子共掺杂的氟化钆或氟化钆钠上转换发光纳米晶体颗粒的可选择性合成方法"
 excerpt: "Invention Patent in China"
 collection: patents
+date: 2022-06-21
 ---
 
 Patent Application Filed and Published.

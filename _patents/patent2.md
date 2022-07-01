@@ -2,6 +2,7 @@
 title: "一种上转换光致发光与光热转换双功能纳米晶体材料及其合成方法"
 excerpt: "Invention Patent in China"
 collection: patents
+date: 2021-11-23
 ---
 
 Patent Application Filed and Published.
