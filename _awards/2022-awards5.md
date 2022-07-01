@@ -9,3 +9,5 @@ location: "Zhengzhou, China"
 ---
 
 Dr. Anming Li was awarded the honorary title of "Academic and Technical Leader of the Department of Education of Henan Province".
+
+[More information here](http://jyt.henan.gov.cn/2022/06-27/2476036.html)
