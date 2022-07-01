@@ -1,0 +1,12 @@
+---
+title: "一种多功能自敏化Yb基氟化物纳米晶体颗粒及其合成方法与应用"
+excerpt: "Invention Patent in China"
+collection: patents
+---
+
+Patent Application Filed and Published.
+
+Application No.: 202210230359.2
+
+Publication Date: 2022-05-20
+
