@@ -59,7 +59,7 @@ Patents
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Service and Leadership
 ======
 * Founder and Director of the Laboratory of Upconversion Luminescent Micro/Nanocrystals.
 * Member of some scientific societies in China.
