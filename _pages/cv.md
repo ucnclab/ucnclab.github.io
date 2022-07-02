@@ -29,7 +29,7 @@ Professional Experience
 Research Interests
 ======
 * Controlled Synthesis of Micro/Nanocrystals
-* PhotoLuminescence
+* Photoluminescence
   * Lanthanide Upconversion Luminescence
   * Electronic Transition Pathway and Energy-Transfer Mechanism
   * Luminescencent Thermometry
