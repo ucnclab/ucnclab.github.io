@@ -76,4 +76,4 @@ Please visit
 
 ------
 <!-- 不蒜子访问统计 -->
-<span id="busuanzi_container_site_pv"><p align="right" >Page Views: <span id="busuanzi_value_site_pv"></p></span>
+<span id="busuanzi_container_site_pv" align="right" > Page Views: <span id="busuanzi_value_site_pv"></span>
