@@ -66,6 +66,3 @@ Service and Leadership
 * Invited oral speaker for some international conferences.
 
 
-------
-<!-- 不蒜子访问统计 -->
-<p align="right" ><span id="busuanzi_container_site_pv">Page Views:<span id="busuanzi_value_site_pv"></span></p>
