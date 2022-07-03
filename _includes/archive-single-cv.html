@@ -40,6 +40,8 @@
     {% endif %}
     {% if post.role%}<p class="archive__item-excerpt" itemprop="description">{{ post.role }}. Granted by <i>{{ post.organization }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p> 
     {% endif %}
+    {% if post.collection == 'research' %}<p class="archive__item-excerpt" itemprop="description">{{ post.inventor }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p> 
+
 
     </li>
  </article>
