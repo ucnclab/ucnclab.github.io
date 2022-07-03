@@ -75,5 +75,4 @@ Please visit
 
 
 ------
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">Page Views:<span id="busuanzi_value_site_pv"></span>
+<span id="busuanzi_container_site_pv">Page Views:<span id="busuanzi_value_site_pv"></span>
