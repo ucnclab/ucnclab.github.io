@@ -64,3 +64,7 @@ Service and Leadership
 * Founder and Director of the Laboratory of Upconversion Luminescent Micro/Nanocrystals.
 * Member of some scientific societies in China.
 * Invited oral speaker for some international conferences.
+
+
+------
+<p align="right" ><span id="busuanzi_container_site_pv">Page Views:<span id="busuanzi_value_site_pv"></span></p>
