@@ -46,7 +46,7 @@ The laboratory has many scientific research equipments, which can be used for sy
 
 * Hikvision thermographical camera
 
-* Teflon-lined autoclaves for hydrothermal reaction
+* Teflon-lined stainless steel autoclave reactors
 
 * KQ-300DE ultrasonic cleaner
 
