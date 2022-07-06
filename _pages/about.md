@@ -42,13 +42,15 @@ The laboratory has many scientific research equipments, which can be used for sy
 
 * KYKY [F-100/150](http://www.kyky.com.cn/content/details97_834.html) turbomolecular pump
 
-* REX [PHS-3C](http://www.lei-ci.com/product/329.html) pH meter
+* REX [PHS-3C](http://www.lei-ci.com/product/329.html) pH meter 
+ 
+* DLAB [adjustable volume](http://www.dlabsci.com/english/cplb/Liquid_Handling/Mechanical_Pipette/2018/0119/201.html) pipettes
 
 * Hikvision thermographical camera
 
 * Teflon-lined stainless steel autoclave reactors
 
-* KQ-300DE ultrasonic cleaner
+* Ultrasonic cleaner
 
 * Rigaku [Ultima IV](https://www.rigaku.com/products/xrd/ultima) powder X-ray diffractometer and ZEISS [Sigma](https://www.zeiss.com/microscopy/int/products/scanning-electron-microscopes/sigma.html) field emission scanning electron microscope are also available from the University. 
 
