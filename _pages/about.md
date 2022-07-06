@@ -18,7 +18,7 @@ The laboratory has many scientific research equipments, which can be used for sy
 
 * Zolix [OmniFluo-960](https://www.zolix.com.cn/en/prodcon_370_373_770.html) photoluminescence spectrometer
 
-* Oxford Instruments [OptistatDN](https://andor.oxinst.com/products/optical-cryostats-for-spectroscopy) liquid-Nitrogen cryostat
+* Oxford Instruments [OptistatDN](https://andor.oxinst.com/products/optical-cryostats-for-spectroscopy) liquid-nitrogen cryostat
 
 * Memmert [UN55plus](https://www.memmert.com/products/heating-drying-ovens/universal-oven/UN55plus/) heating oven
 
