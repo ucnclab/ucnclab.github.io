@@ -52,7 +52,9 @@ The laboratory has many scientific research equipments, which can be used for sy
 
 * Ultrasonic cleaner
 
-* Rigaku [Ultima IV](https://www.rigaku.com/products/xrd/ultima) powder X-ray diffractometer and ZEISS [Sigma](https://www.zeiss.com/microscopy/int/products/scanning-electron-microscopes/sigma.html) field emission scanning electron microscope are also available from the University. 
+* Rigaku [Ultima IV](https://www.rigaku.com/products/xrd/ultima) powder X-ray diffractometer (available from the University)
+
+* ZEISS [Sigma](https://www.zeiss.com/microscopy/int/products/scanning-electron-microscopes/sigma.html) field emission scanning electron microscope (available from the University)
 
 Photoluminescence Spectrometer
 ![Spectrometer](/images/spectrometer.jpg)
