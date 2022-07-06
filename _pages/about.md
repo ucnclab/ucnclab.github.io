@@ -14,7 +14,7 @@ The research work in the laboratory is funded by some official grants (e.g., fro
 
 Scientific Equipments
 ------
-The laboratory has many scientific research equipments, which can be used for the synthesis and characterization of optically functional nanocrystals or microcrystals.
+The laboratory has many scientific research equipments, which can be used for synthesis and characterization of optically functional nanocrystals or microcrystals.
 
 * Zolix [OmniFluo-960](https://www.zolix.com.cn/en/prodcon_370_373_770.html) photoluminescence spectrometer
 
