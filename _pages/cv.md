@@ -17,9 +17,6 @@ Education
 
 Professional Experience
 ======
-* 2010 ~ 2014: Assistant Professor
-  * Jinan University
-
 * 2017 ~ 2019: Associate Professor
   * Jinan University
 
@@ -29,11 +26,11 @@ Professional Experience
 Research Interests
 ======
 * Controlled Synthesis of Micro/Nanocrystals
-* Photoluminescence
+* Photoluminescence of Functional Micro/Nanocrystals
   * Lanthanide Upconversion Luminescence
   * Electronic Transition Pathway and Energy-Transfer Mechanism
   * Luminescencent Thermometry
-* Photothermal Conversion
+* Photothermal Conversion of Functional Micro/Nanocrystals
 
 Publications
 ======
