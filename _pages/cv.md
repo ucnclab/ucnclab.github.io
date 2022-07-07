@@ -61,5 +61,6 @@ Service and Leadership
 * Founder and Director of the Laboratory of Upconversion Luminescent Micro/Nanocrystals.
 * Member of some scientific societies in China.
 * Invited oral speaker for some international conferences.
+* Journal peer reviewer.
 
 
