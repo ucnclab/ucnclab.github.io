@@ -17,6 +17,9 @@ Education
 
 Professional Experience
 ======
+* 2010 ~ 2014: Technician
+  * Jinan University
+
 * 2017 ~ 2019: Associate Professor
   * Jinan University
 
