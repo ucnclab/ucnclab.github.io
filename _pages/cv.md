@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Condensed Matter Physics, Sun Yat-sen University, 2017
+* Ph.D in Condensed Matter Physics, State Key Laboratory of Optoelectronic Materials and Technologies, Sun Yat-sen University, 2017
 * M.S. in Optical Engineering, Jinan University, 2010
 * B.S. in Electronics, Henan University, 2007
 
