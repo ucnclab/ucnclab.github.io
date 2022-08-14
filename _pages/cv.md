@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Condensed Matter Physics, Sun Yat-sen University / State Key Laboratory of Optoelectronic Materials and Technologies, 2017
-* M.S. in Optical Engineering, Jinan University, 2010
-* B.S. in Electronics, Henan University, 2007
+* Ph.D in Condensed Matter Physics, 2017
+  * Sun Yat-sen University / State Key Laboratory of Optoelectronic Materials and Technologies
+
+* M.S. in Optical Engineering, 2010
+  * Jinan University
+
+* B.S. in Electronics, 2007
+  * Henan University
 
 Professional Experience
 ======
@@ -29,10 +34,12 @@ Professional Experience
 Research Interests
 ======
 * Controlled Synthesis of Micro/Nanocrystals
+
 * Photoluminescence of Functional Micro/Nanocrystals
   * Lanthanide Upconversion Luminescence
   * Electronic Transition Pathway and Energy-Transfer Mechanism
   * Luminescencent Thermometry
+
 * Photothermal Conversion of Functional Micro/Nanocrystals
 
 Publications
