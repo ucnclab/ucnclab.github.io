@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The Laboratory of Upconversion Luminescent Micro/Nanocrystals (Anming Li's Lab) was established and headed by Assoc. Prof. Dr. Anming Li. The scientific research of the Laboratory mainly focuses on controllable synthesis of micro/nanocrystals, lanthanide upconversion photoluminescence and photothermal conversion, and the underlying electronic transition pathways and energy transfer mechanisms.
+The Laboratory of Upconversion Luminescent Micro/Nanocrystals (Anming Li's Lab) was established and headed by Assoc. Prof. Dr. Anming Li (李安明). The scientific research of the Laboratory mainly focuses on controllable synthesis of micro/nanocrystals, lanthanide upconversion photoluminescence and photothermal conversion, and the underlying electronic transition pathways and energy transfer mechanisms.
 
 The research work in the laboratory is funded by some official grants (e.g., from the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html), the [Natural Science Foundation of Guangdong Province](http://gdstc.gd.gov.cn/), and the Fundamental Research Funds for the Central Universities - [Jinan University](https://www.jnu.edu.cn/).
 
