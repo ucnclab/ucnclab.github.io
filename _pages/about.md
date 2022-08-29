@@ -72,13 +72,13 @@ For More Information
 ------
 Please visit
 
-* [ORCID Page](https://orcid.org/0000-0003-1344-3460)
+* [ORCID Profile](https://orcid.org/0000-0003-1344-3460)
 
-* [Publons Page](https://publons.com/researcher/4671788/anming-li/)
+* [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/rid/AAY-4215-2021)
 
-* [ResearchGate Page](https://www.researchgate.net/profile/Anming-Li)
+* [ResearchGate Profile](https://www.researchgate.net/profile/Anming-Li)
 
-* [Curriculum Vitae Page](/cv/) in this website 
+* [Curriculum Vitae](/cv/) 
 
 
 ------
