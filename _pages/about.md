@@ -49,7 +49,7 @@ This Lab has many scientific equipments for the synthesis or characterization of
  
 * DLAB [adjustable volume](http://www.dlabsci.com/english/cplb/Liquid_Handling/Mechanical_Pipette/2018/0119/201.html) pipettes
 
-* Hikvision thermographical camera
+* HIKVISION/HIKMICRO [thermographical](https://www.hikmicrotech.com/en/thermography) camera
 
 * Teflon-lined stainless steel autoclave reactors
 
