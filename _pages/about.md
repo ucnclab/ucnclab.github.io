@@ -70,7 +70,7 @@ Centrifuge and Ultrasonic Cleaner
 
 For More Information
 ------
-Please visit
+Please visit:
 
 * [ORCID Profile](https://orcid.org/0000-0003-1344-3460)
 
