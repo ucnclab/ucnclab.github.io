@@ -47,7 +47,7 @@ This Lab has many scientific equipments for the synthesis or characterization of
 
 * REX [PHS-3C](http://www.lei-ci.com/product/329.html) pH meter 
  
-* DLAB [adjustable volume](http://www.dlabsci.com/english/cplb/Liquid_Handling/Mechanical_Pipette/2018/0119/201.html) pipettes
+* DLAB [adjustable volume](http://www.dlabsci.com/english/cplb/HotPlate/2022/1229/1115.html) pipettes
 
 * HIKVISION/HIKMICRO [thermographic](https://www.hikmicrotech.com/en/thermography) camera
 
