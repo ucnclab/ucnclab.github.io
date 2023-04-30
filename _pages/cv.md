@@ -36,9 +36,10 @@ Research Interests
 * Controlled Synthesis of Micro/Nanocrystals
 
 * Photoluminescence of Functional Micro/Nanocrystals
-  * Lanthanide Upconversion Luminescence
-  * Electronic Transition Pathway and Energy-Transfer Mechanism
-  * Luminescencent Thermometry
+  * Upconversion Luminescence
+  * Lanthanide Luminescence
+  * lectronic Transition Pathway and Energy-Transfer Mechanism
+  * Luminescent Thermometry
 
 * Photothermal Conversion of Functional Micro/Nanocrystals
 
