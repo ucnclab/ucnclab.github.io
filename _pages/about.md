@@ -51,13 +51,9 @@ This Lab has many scientific equipments for the synthesis or characterization of
 
 * HIKVISION/HIKMICRO [thermographic](https://www.hikmicrotech.com/en/thermography) camera
 
+* ZEISS [Sigma](https://www.zeiss.com/microscopy/int/products/scanning-electron-microscopes/sigma.html) field emission scanning electron microscope
+ 
 * Teflon-lined stainless steel autoclave reactors
-
-* Ultrasonic cleaner
-
-* Rigaku [Ultima IV](https://www.rigaku.com/products/xrd/ultima) powder X-ray diffractometer (available from the University)
-
-* ZEISS [Sigma](https://www.zeiss.com/microscopy/int/products/scanning-electron-microscopes/sigma.html) field emission scanning electron microscope (available from the University)
 
 Photoluminescence Spectrometer
 ![Spectrometer](/images/spectrometer.jpg)
