@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-08-17
 venue: 'Upconversion Nanoparticles (UCNPs) for Functional Applications (Book), Springer Nature'
 paperurl: 'https://doi.org/10.1007/978-981-99-3913-8_16'
-citation: '<b>A. Li</b>. &quot;Upconversion Luminescent Nanoheaters&quot; (Book Chapter). In: <i>Upconversion Nanoparticles (UCNPs) for Functional Applications</i> (Book, pp 437–464), <i>Progress in Optical Science and Photonics</i> (Book Series), <i>Springer Nature</i>, Singapore, 2023.'
+citation: '<b>A. Li</b>. &quot;Upconversion Luminescent Nanoheaters&quot; (Book Chapter). In: Kumar, V., Ayoub, I., Swart, H.C., Sehgal, R. (eds) <i>Upconversion Nanoparticles (UCNPs) for Functional Applications</i> (Book, pp 437–464), <i>Progress in Optical Science and Photonics</i> (Book Series), <i>Springer Nature</i>, Singapore, 2023.'
 ---
 [View Book Chapter Page](https://link.springer.com/chapter/10.1007/978-981-99-3913-8_16)
 
