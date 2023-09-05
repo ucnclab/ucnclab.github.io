@@ -11,25 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Condensed Matter Physics, 2017
+* Ph.D in Condensed Matter Physics
   * Sun Yat-sen University / State Key Laboratory of Optoelectronic Materials and Technologies
-
-* M.S. in Optical Engineering, 2010
-  * Jinan University
-
-* B.S. in Electronics, 2007
-  * Henan University
 
 Professional Experience
 ======
-* 2019 ~ Present: Associate Professor
+* Associate Professor
   * Zhengzhou Normal University
 
-* 2017 ~ 2019: Associate Professor
+* Associate Professor
   * Jinan University
 
-* 2010 ~ 2014: Technician
-  * Jinan University
+* Graduate Supervisor
+  * Henan Normal University
 
 Research Interests
 ======
