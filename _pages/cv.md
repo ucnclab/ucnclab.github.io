@@ -16,7 +16,7 @@ Education
 
 Professional Experience
 ======
-* Associate Professor
+* Professor
   * Zhengzhou Normal University
 
 * Associate Professor
