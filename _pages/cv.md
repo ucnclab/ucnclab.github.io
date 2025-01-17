@@ -65,6 +65,6 @@ Academic Services
 ======
 * Member of some scientific societies in China.
 * Invited oral speaker for some international renowned academic conferences.
-* Peer reviewer of some SCI-indexed Journals.
+* Peer reviewer of some international academic journals indexed by SCI/SCIE.
 * Invited Reviewer for some scientific research fund projects.
 
