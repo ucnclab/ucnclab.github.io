@@ -61,11 +61,10 @@ Patents
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and Leadership
+Academic Services
 ======
-* Founder and Director of the Laboratory of Upconversion Luminescent Micro/Nanocrystals.
 * Member of some scientific societies in China.
-* Invited oral speaker for some international conferences.
-* Journal peer reviewer.
-
+* Invited oral speaker for some international renowned academic conferences.
+* Peer reviewer of some SCI-indexed Journals.
+* Invited Reviewer for some scientific research fund projects.
 
