@@ -11,9 +11,9 @@ redirect_from:
 About the Lab
 ------
 
-The Laboratory of Upconversion Luminescent Micro/Nanocrystals (Anming Li's Lab) was established and headed by Assoc. Prof. Dr. Anming Li (李安明). The scientific research of this Lab mainly focuses on controllable synthesis of micro/nanocrystals, lanthanide upconversion photoluminescence and photothermal heating, and their underlying energy transfer mechanism.
+The Laboratory of Upconversion Luminescent Micro/Nanocrystals (Anming Li's Lab) was established and headed by Prof. Dr. Anming Li (李安明). The scientific research of this Laboratory mainly focuses on controllable synthesis and upconversion photoluminescence of lanthanide micro/nanocrystals, and their underlying energy-transfer mechanisms.
 
-The research work in the laboratory is funded by some official grants (e.g., from the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/index.html), the [Natural Science Foundation of Guangdong Province](http://gdstc.gd.gov.cn/), and the Fundamental Research Funds for the Central Universities-[Jinan University](https://www.jnu.edu.cn/)).
+The research work in the laboratory is funded by some official grants (e.g., the National Natural Science Foundation of China, the Department of Education of the Henan Province, the Natural Science Foundation of Guangdong Province, the Fundamental Research Funds for the Central Universities).
 
 List of Scientific Equipments
 ------
@@ -53,7 +53,7 @@ This Lab has many scientific equipments for the synthesis or characterization of
 
 * ZEISS [Sigma](https://www.zeiss.com/microscopy/int/products/scanning-electron-microscopes/sigma.html) field emission scanning electron microscope
  
-* Teflon-lined stainless steel autoclave reactors
+* Teflon-lined autoclave
 
 Photoluminescence Spectrometer
 ![Spectrometer](/images/spectrometer.jpg)
